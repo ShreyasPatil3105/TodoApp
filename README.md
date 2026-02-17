@@ -1,4 +1,4 @@
-# FastAPI Todo API 🚀
+# FastAPI Todo API 
 
 A Todo REST API built using **FastAPI**, **SQLAlchemy**, and **SQLite** with **JWT Authentication** and **Role-Based Access Control**.
 
