@@ -18,4 +18,15 @@ A Todo REST API built using **FastAPI**, **SQLAlchemy**, and **SQLite** with **J
 - JWT Authentication
 
 ## Project Structure
-
+TodoApp/
+│
+├── main.py
+├── database.py
+├── models.py
+├── routers/
+│ ├── admin.py
+│ ├── auth.py
+│ ├── todos.py
+│ └── users.py
+├── README.md
+└── .gitignore
